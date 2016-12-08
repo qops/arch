@@ -1,5 +1,5 @@
 ##　高并发高稳定交易系统
-##### source from: sacc 2014 王晓钟 http://wenku.it168.com/d_001539709.shtml
+#####               source from: sacc 2014 王晓钟 http://wenku.it168.com/d_001539709.shtml
 
 - 原则一：拆分系统
 - 原则二：灾备切换
